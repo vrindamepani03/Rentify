@@ -1,0 +1,887 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.new-property-7yy {
+  width: 100%;
+  height: 104.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #6c84a1;
+}
+.new-property-7yy .frame-3-4PR {
+  width: 113rem;
+  height: 98.9rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 5.8rem;
+  background-color: #f8f8f8;
+}
+.new-property-7yy .frame-3-4PR .h3-Yxo {
+  width: 22.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 11.4rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.1428571429;
+  letter-spacing: 0.01rem;
+  color: #2d4a85;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj {
+  width: 100.4rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 21.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu {
+  width: 100%;
+  height: 2.9rem;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR {
+  width: 74.1rem;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-oGT {
+  margin-right: 23.2rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-oGT .form-control-oGT-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-oGT .form-control-oGT-sub-1 {
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-oGT .form-control-oGT-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-ueF {
+  margin-right: 26.8rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-ueF .form-control-ueF-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-ueF .form-control-ueF-sub-1 {
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-ueF .form-control-ueF-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-CWs {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-CWs .form-control-CWs-sub-0 {
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-7wah-iVu .auto-group-tj4d-GXR .form-control-CWs .form-control-CWs-sub-1 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 .select-i7q {
+  margin-right: 0.9rem;
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 .select-i7q .option-4Bh {
+  box-sizing: border-box;
+  padding: 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 .select-5cb {
+  margin-right: 4.1rem;
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 .select-5cb .option-p4P {
+  box-sizing: border-box;
+  padding: 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 .form-control-input-style-1-qkB {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1902-otj .auto-group-prq9-nV5 .form-control-input-style-1-qkB .inputform-control-aSs {
+  box-sizing: border-box;
+  padding: 1.1rem 2.1rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e6e6e6;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d {
+  width: 78.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 31.6rem;
+  display: flex;
+  align-items: center;
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-vv3 {
+  margin-right: 30rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-vv3 .form-control-vv3-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-vv3 .form-control-vv3-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-495 {
+  margin-right: 28.9rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-495 .form-control-495-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-495 .form-control-495-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-mBu {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-mBu .form-control-mBu-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+
+.new-property-7yy .frame-3-4PR .auto-group-zhwm-E1d .form-control-mBu .form-control-mBu-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy {
+  width: 100.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 34.5rem;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-32w {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-32w .option-zTy {
+  box-sizing: border-box;
+  padding: 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-TcT {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-TcT .option-owD {
+  box-sizing: border-box;
+  padding: 1.1rem 1.5rem 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-TcT .option-owD .dropdown-wXd {
+  margin-right: 19.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-TcT .option-owD .vector-2oy {
+  margin-top: 0.8rem;
+  width: 1.4rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-KYB {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-KYB .option-frw {
+  box-sizing: border-box;
+  padding: 1.1rem 1.5rem 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-KYB .option-frw .dropdown-Crs {
+  margin-right: 13.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-z97s-7uy .select-KYB .option-frw .auto-group-kyfo-XeF {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB {
+  width: 100.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 44.9rem;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-m2o {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-m2o .option-X1y {
+  box-sizing: border-box;
+  padding: 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-xsy {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-xsy .option-is9 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-xsy .option-is9 .dropdown-4RD {
+  margin-right: 18.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-xsy .option-is9 .auto-group-ispo-n6K {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-tf9 {
+  width: 31.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-tf9 .option-SwZ {
+  box-sizing: border-box;
+  padding: 1.1rem 1rem 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-tf9 .option-SwZ .dropdown-P67 {
+  margin-right: 20.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-tym7-dxB .select-tf9 .option-SwZ .auto-group-kmbb-hsV {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf {
+  width: 81.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 42rem;
+  display: flex;
+  align-items: center;
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-jpB {
+  margin-right: 29.2rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-jpB .form-control-jpB-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-jpB .form-control-jpB-sub-1 {
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-jpB .form-control-jpB-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-fbM {
+  margin-right: 29.3rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-fbM .form-control-fbM-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-fbM .form-control-fbM-sub-1 {
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-fbM .form-control-fbM-sub-2 {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-btK {
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-btK .form-control-btK-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-6gx7-cUf .form-control-btK .form-control-btK-sub-1 {
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF {
+  width: 100.4rem;
+  height: 33.9rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 52.4rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .inputform-control-rxf {
+  box-sizing: border-box;
+  padding: 1.3rem 2rem;
+  width: 100.4rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #727272;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e6e6e6;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .upload-photos-JZm {
+  width: 12.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 20.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  text-transform: capitalize;
+  color: #444951;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .rectangle-97-Cv3 {
+  width: 100.4rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0;
+  top: 23.7rem;
+  border: dashed 0.1rem #2d4a85;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX {
+  width: 61.7rem;
+  height: 30.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .form-control-FtK {
+  margin: 0rem 51.7rem 24rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 600;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .form-control-FtK .form-control-FtK-sub-0 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #252b42;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .form-control-FtK .form-control-FtK-sub-1 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.4117647059;
+  letter-spacing: 0.02rem;
+  color: #f4511e;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .drag-your-images-here-or-browse-LHV {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .drag-your-images-here-or-browse-LHV .drag-your-images-here-or-browse-LHV-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .drag-your-images-here-or-browse-LHV .drag-your-images-here-or-browse-LHV-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #2d4a85;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.new-property-7yy .frame-3-4PR .auto-group-gi6r-jNF .group-1901-XSX .supported-jpg-jpeg-png-Qgf {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.new-property-7yy .frame-3-4PR .group-1686550893-hQs {
+  width: 51.3rem;
+  height: 6.9005rem;
+  position: absolute;
+  left: 31.5rem;
+  top: 89.8rem;
+  font-size: 2.1791rem;
+  font-weight: 400;
+  line-height: 1.1666666958;
+  letter-spacing: 0.0182rem;
+  color: #ffffff;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2d4a85;
+  border-radius: 0.908rem;
+}
+.new-property-7yy .taskbar-hZH {
+  box-sizing: border-box;
+  padding: 3.809rem 4.3rem 0.391rem 5.3rem;
+  width: 151.2rem;
+  height: 12.1119rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #dfe8f3;
+}
+.new-property-7yy .taskbar-hZH .ellipse-45-ymh {
+  margin-right: 82rem;
+  width: 8.1rem;
+  height: 7.9118rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.new-property-7yy .taskbar-hZH .group-1686550877-7d1 {
+  margin: 1.465rem 2.4rem 0.781rem 0rem;
+  width: 28.1rem;
+  height: calc(100% - 2.2466rem);
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.new-property-7yy .taskbar-hZH .group-1686550877-7d1 .rectangle-9661-qJ7 {
+  width: 28.1rem;
+  height: 5.5676rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #bdcce0;
+  border-radius: 1rem;
+}
+.new-property-7yy .taskbar-hZH .group-1686550877-7d1 .list-your-property-ArB {
+  width: 24.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0.7814rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.new-property-7yy .taskbar-hZH .sign-up-ryu {
+  margin: 0rem 2.8rem 0.691rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #101112;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.new-property-7yy .taskbar-hZH .login-mb5 {
+  margin-bottom: 0.6908rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.type{
+  box-sizing: border-box;
+  padding: 1.1rem 1.5rem 1.1rem 1.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #dddddd;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+}

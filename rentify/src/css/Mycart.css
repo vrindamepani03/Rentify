@@ -1,0 +1,666 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.macbook-pro-14-18-zRM {
+  width: 100%;
+  height: 98.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo {
+  width: 40.0001rem;
+  height: 71rem;
+  position: absolute;
+  left: 11.8999rem;
+  top: 21rem;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .rectangle-9725-ns1 {
+  width: 40rem;
+  height: 71rem;
+  position: absolute;
+  left: 0.0001rem;
+  top: 0;
+  background-color: #dae6f2;
+  border-radius: 3rem;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .log-out-78b {
+  width: 9.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 10.1001rem;
+  top: 63.7rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .update-profile-Bu9 {
+  width: 17.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 10.1001rem;
+  top: 32.2rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .rectangle-9726-Vew {
+  width: 35.1rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 2.3001rem;
+  top: 2.2rem;
+  background-color: #bdcce0;
+  border-radius: 3rem;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .rectangle-9727-pSK {
+  width: 35rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 2.4001rem;
+  top: 2.4rem;
+  background-color: #bdcce0;
+  border-radius: 3rem;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .praful-parekh-wmq {
+  width: 18.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 10.9001rem;
+  top: 4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .ellipse-43-qcK {
+  width: 4.5rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 5.3001rem;
+  top: 4rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-43-bg.png');
+  border-radius: 2.25rem;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .line-30-Loy {
+  width: 40.0001rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 14.149rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .line-38-5Wf {
+  width: 40.0001rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 38.149rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .line-41-pUF {
+  width: 40.0001rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 60.149rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .line-39-Zwd {
+  width: 40.0001rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 30.149rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .line-40-ukb {
+  width: 40.0001rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 22.149rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .settings-TXD {
+  width: 10rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 10.1001rem;
+  top: 16.2rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .my-cart-a63 {
+  width: 9.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 10.1001rem;
+  top: 24.2rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .setting-1-64P {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.7001rem;
+  top: 16.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .shopping-cart-1-d4K {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.7001rem;
+  top: 25.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .user-profile-1-Mm1 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.7001rem;
+  top: 32.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .log-out-1-goH {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.7001rem;
+  top: 63.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .group-1686550889-vpo .log-out-2-D2X {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.7001rem;
+  top: 64rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH {
+  width: 95.9rem;
+  height: 63.2453rem;
+  position: absolute;
+  left: 55.3rem;
+  top: 22.4rem;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .deposit-4-months-rent-rLP {
+  width: 38.4rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 8.5rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .bhk-independent-apartment-for-rent-in-btm-layout-stage-1-bengaluru-Yj1 {
+  width: 47.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 30.2602rem;
+  top: 12.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .bhk-independent-apartment-for-rent-in-btm-layout-stage-1-bengaluru-Yj1 .bhk-independent-apartment-for-rent-in-btm-layout-stage-1-bengaluru-Yj1-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .bhk-independent-apartment-for-rent-in-btm-layout-stage-1-bengaluru-Yj1 .bhk-independent-apartment-for-rent-in-btm-layout-stage-1-bengaluru-Yj1-sub-1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .location-btm-layout-stage-1-vd5 {
+  width: 15rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 29.8424rem;
+  top: 16.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .area-600-sqft-piT {
+  width: 3.1rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 47.6573rem;
+  top: 16.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .furnishing-semifurnished-KQK {
+  width: 10.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 54.4926rem;
+  top: 16.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .construction-2023-pM5 {
+  width: 8.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 65.4521rem;
+  top: 17rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .line-3-8Mm {
+  width: 0.092rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 45.2523rem;
+  top: 16.1rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .line-4-TQ3 {
+  width: 0;
+  height: 5.2rem;
+  position: absolute;
+  left: 53.7142rem;
+  top: 16rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .line-14-zes {
+  width: 0;
+  height: 5.2rem;
+  position: absolute;
+  left: 65.3032rem;
+  top: 16.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .this-is-an-excellent-2-bhk-house-for-rent-in-btm-layout-stage-1-bangalore-8WB {
+  width: 51.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 27.4203rem;
+  top: 22.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .rectangle-9659-DXd {
+  width: 14.8365rem;
+  height: 5rem;
+  position: absolute;
+  left: 29.673rem;
+  top: 25.6rem;
+  background-color: rgba(165, 185, 218, 0.8399999738);
+  border-radius: 2rem;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .visit-for-free-jks {
+  width: 10.7rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 31.9391rem;
+  top: 26.9rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .image-5-r4o {
+  width: 24.8961rem;
+  height: 21rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb {
+  width: 95.9rem;
+  height: 63.2453rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .auto-group-gxdf-KDH {
+  margin-bottom: 33.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.2rem 1.4rem 1.2rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #dae6f2;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK {
+  width: 73.8rem;
+  height: 25.0453rem;
+  position: relative;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .bed-deposit-2-months-rent-jXu {
+  width: 44.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 29.7rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .bhk-independent-house-for-rent-in-bengaluru-EjZ {
+  width: 32.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 24.6624rem;
+  top: 5.3475rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .location-vijaya-nagar-stage-2-8a3 {
+  width: 16.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 22.6779rem;
+  top: 9.2022rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .area-900-sqft-SKq {
+  width: 3.1rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 40.276rem;
+  top: 9.6189rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .furnishing-fullyfurnished-kLX {
+  width: 10.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 47.3908rem;
+  top: 9.7231rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .construction-2016-Tkj {
+  width: 8.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 57.2893rem;
+  top: 10.0356rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .line-15-aaT {
+  width: 0.0833rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 38.2434rem;
+  top: 8.9938rem;
+  background-color: #000000;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .line-16-7qH {
+  width: 0;
+  height: 5.4174rem;
+  position: absolute;
+  left: 47.0752rem;
+  top: 8.9938rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .line-17-GTH {
+  width: 0;
+  height: 5.4174rem;
+  position: absolute;
+  left: 57.5733rem;
+  top: 9.098rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .this-is-an-excellent-3-bhk-house-for-rent-in-vijaya-nagar-stage-2-bangalore-D7d {
+  width: 52.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 18.1756rem;
+  top: 15.2446rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .this-is-an-excellent-3-bhk-house-for-rent-in-vijaya-nagar-stage-2-bangalore-D7d .this-is-an-excellent-3-bhk-house-for-rent-in-vijaya-nagar-stage-2-bangalore-D7d-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+}
+
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .rectangle-9660-u8s {
+  width: 12.4978rem;
+  height: 5.209rem;
+  position: absolute;
+  left: 25.4956rem;
+  top: 18.891rem;
+  background-color: rgba(165, 185, 218, 0.8399999738);
+  border-radius: 2rem;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .visit-for-free-ozw {
+  width: 7.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 27.9945rem;
+  top: 20.2453rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .image-11-KyH {
+  width: 24.896rem;
+  height: 21.8779rem;
+  position: absolute;
+  left: 0;
+  top: 0.0343rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.macbook-pro-14-18-zRM .auto-group-xqru-8fH .group-1686550890-aWb .house4-zaK .thunder-1-qwd {
+  width: 1.6664rem;
+  height: 2.8202rem;
+  position: absolute;
+  left: 38.4934rem;
+  top: 20.2453rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf {
+  box-sizing: border-box;
+  padding: 3.5rem 4.3rem 1.481rem 5.3rem;
+  width: 151.2rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #dfe8f3;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf .ellipse-45-p2s {
+  margin: 0rem 82rem 2.219rem 0rem;
+  width: 8.1rem;
+  height: 8.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-45-bg-4yd.png');
+  border-radius: 4.05rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf .group-1686550877-JTq {
+  margin: 3.163rem 2.4rem 0rem 0rem;
+  width: 28.1rem;
+  height: 7.1565rem;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf .group-1686550877-JTq .rectangle-9661-ph5 {
+  width: 28.1rem;
+  height: 7.0331rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #bdcce0;
+  border-radius: 1rem;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf .group-1686550877-JTq .list-your-property-Z8s {
+  width: 24.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0.9871rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf .sign-up-rNs {
+  margin: 0.4rem 2.8rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #101112;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-18-zRM .taskbar-XJf .login-NMD {
+  margin-top: 0.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
